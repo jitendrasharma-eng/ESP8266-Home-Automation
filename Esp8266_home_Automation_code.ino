@@ -259,4 +259,3 @@ delay(10);
 
 
 
-https://www.technolabcreation.com/arduino-nano-based-bluetooth-manual-control-homeautomation-system-using-android-app/
